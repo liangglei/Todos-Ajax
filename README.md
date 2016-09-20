@@ -8,7 +8,7 @@
    	         b.npm run server  
              c.浏览器打开地址http://127.0.0.1:8081/index.html即可看到（界面简陋后期会用ui组件来美化）
 #state 树结构
-      {
+     ``` {
       visibilityFilter: 'SHOW_ALL',
       todos:{
       todos: [
@@ -26,7 +26,7 @@
     	   failture:false,
     	   failtureText:''
     }
-    }
+    }```
  
 #redux+react+webpack+express完全脱离后端开发实践总结：
 1. 先开发出一个视图界面
